@@ -85,7 +85,7 @@ function twentytwelve_header_style() {
 		}
 		.site-description {
 			color: #<?php echo $text_color; ?> !important;
-			width:700px;
+			width:650px;
 			#border:1px solid black;
 
 		}
